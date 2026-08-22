@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "resource_group" {
+resource "azurerm_resource_group" "resource_group154" {
 
     for_each = var.resource_group
 
