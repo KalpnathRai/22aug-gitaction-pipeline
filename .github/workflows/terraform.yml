@@ -22,7 +22,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./environment
+        working-directory: ./environment/dev
 
     steps:
       - name: Checkout Code
