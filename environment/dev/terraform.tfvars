@@ -6,8 +6,8 @@ rgs = {
     } 
 
 
-    #     rg7777 = {
-    #     name = "rai-777777"
-    #     location = "centralindia"
-    # }
+        rg7777 = {
+        name = "rai-777777"
+        location = "centralindia"
+    }
 }
