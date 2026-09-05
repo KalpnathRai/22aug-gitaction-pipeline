@@ -7,7 +7,7 @@ rgs = {
 
 
         rg7777 = {
-        name = "rai-777777"
+        name = "rai-8888"
         location = "centralindia"
     }
 }
